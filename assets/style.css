@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
-
 * {
   margin: 0;
   padding: 0;
@@ -19,7 +18,7 @@ a {
   flex-direction: row;
   margin-bottom: 1rem;
 }
-h3 {
+.logo h3 {
   font-size: 2rem !important;
   width: fit-content;
   color: #fdfdfd !important;
@@ -55,6 +54,7 @@ img .side .wrapper {
   background: #161d50;
   padding: 20px 0px;
   position: fixed;
+  top: 0;
 }
 .wrapper .sidebar ul li {
   padding: 15px;
@@ -109,6 +109,10 @@ img .side .wrapper {
 .wrapper .main_content .header {
   padding: 20px;
   background: #fff;
+  top: 0;
+  z-index: 9999;
+  position: fixed;
+  width: 82vw;
   color: #717171;
   border-bottom: 1px solid #e0e4e8;
 }
@@ -132,4 +136,48 @@ img .side .wrapper {
   color: #594f8d;
   font-weight: 300;
   padding-left: 0.3rem;
+}
+.context {
+  margin-top: 12rem;
+}
+.cam-content {
+  justify-content: space-between;
+  display: flex;
+  padding: 1rem;
+  border: 1px solid #d4d4d4;
+}
+.vi-header {
+  display: flex;
+}
+.vi-header h3 {
+  padding-left: 1rem;
+}
+.vi-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.vi {
+  padding: 2rem;
+  border: 1px solid #a09e9e;
+  border-radius: 0.8rem;
+}
+.vi-statbox {
+  justify-content: space-between;
+  display: flex;
+}
+.vi-stat {
+  padding: 1rem;
+  border-radius: 0.8rem;
+  color: #fdfdfd;
+  margin: 1rem;
+}
+#v-one {
+  background-color: #22295a;
+}
+#v-two {
+  background-color: #161d50;
+}
+#v-three {
+  background-color: #172271;
 }
