@@ -146,10 +146,10 @@ img .side .wrapper {
   padding: 1rem;
   border: 1px solid #d4d4d4;
 }
-.vi-header {
+.s-header {
   display: flex;
 }
-.vi-header h3 {
+.s-header h3 {
   padding-left: 1rem;
 }
 .vi-content {
@@ -180,4 +180,18 @@ img .side .wrapper {
 }
 #v-three {
   background-color: #172271;
+}
+.graph {
+  padding: 1rem;
+  margin: 2rem 0;
+  border: 1px solid #a09e9e;
+  width: fit-content;
+  border-radius: 0.8rem;
+}
+.license {
+  padding: 1rem;
+  margin: 2rem 2rem;
+  border: 1px solid #a09e9e;
+  width: fit-content;
+  border-radius: 0.8rem;
 }
