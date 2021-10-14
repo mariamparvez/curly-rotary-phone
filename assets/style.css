@@ -124,6 +124,9 @@ img .side .wrapper {
   width: 20rem;
   float: right;
 }
+.nav-user h4 {
+  font-weight: 500 !important;
+}
 .header {
   display: flex;
   justify-content: space-between;
