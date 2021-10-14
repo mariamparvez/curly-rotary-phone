@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="dashboard" transform="translate(-3.343 -3.343)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="2" height="6" transform="translate(31.409 27.409)" fill="#fdfdfd"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="2" height="12" transform="translate(26.056 21.409)" fill="#fdfdfd"/>
+    <path id="Path_1" data-name="Path 1" d="M12.048,28.1A6.055,6.055,0,0,1,6,22.048H8.419a3.629,3.629,0,1,0,3.629-3.629V16a6.048,6.048,0,1,1,0,12.1Z" transform="translate(2.181 5.409)" fill="#fdfdfd"/>
+    <path id="Path_2" data-name="Path 2" d="M34.5,2H4.5A2.5,2.5,0,0,0,2,4.5v30A2.5,2.5,0,0,0,4.5,37h30A2.5,2.5,0,0,0,37,34.5V4.5A2.5,2.5,0,0,0,34.5,2Zm0,11.25H17V4.5H34.5ZM14.5,4.5v8.75H4.5V4.5Zm-10,30V15.75h30l0,18.75Z" transform="translate(1.343 1.343)" fill="#fdfdfd"/>
+  </g>
+</svg>
